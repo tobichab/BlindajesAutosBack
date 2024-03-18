@@ -1,0 +1,5 @@
+package com.example.aspblindajes.model;
+
+public enum MovementType {
+    LOGISTIC_CHECKIN, LOGISITIC_CHECKOUT_TO_PRODUCTION, PRODUCTION_CHECKOUT_TO_LOGISTIC, LOGISTIC_CHECKOUT_TO_CLIENT
+}
